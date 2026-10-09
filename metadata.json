@@ -1,0 +1,5 @@
+{
+  "name": "Smart Attendance",
+  "description": "A comprehensive web-based system for educational institutions to manage student attendance, featuring admin and student dashboards, subject management, and automated reporting.",
+  "requestFramePermissions": []
+}
